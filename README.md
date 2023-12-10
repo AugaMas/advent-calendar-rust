@@ -1,2 +1,2 @@
-# advent-calendar-rust
-Purpose of this repo is to learn the rust programming language. There is a nice initiative called advent of code which every day serves progressively more challenging problem.
+# advent-calendar-rust :santa:
+Purpose of this repo is to learn the rust programming language. There is a nice initiative called advent of code which every day serves progressively more challenging problem. The goal is to complete atleast 10 days excercises and get familiar with rust syntax. Every day challange will have a seperate branch. The challange is started at 10th of December, so best of luck to me! :christmas_tree: :christmas_tree:
